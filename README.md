@@ -1,2 +1,2 @@
 # esteem-badges
-Suggested rewards badges for eSteem
+Rewards badge designs for eSteem
