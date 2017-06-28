@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="398px" height="400px" viewBox="0 0 398 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>advocate</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#00CDFB" offset="0%"></stop>
+            <stop stop-color="#009EF5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="62.6962395%" y2="61.1738394%" id="linearGradient-2">
+            <stop stop-color="#00CDFB" offset="0%"></stop>
+            <stop stop-color="#009EF5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="url(#linearGradient-1)" transform="translate(199.000000, 200.000000) rotate(45.000000) translate(-199.000000, -200.000000) " x="93" y="94" width="212" height="212"></rect>
+        <polygon id="Path-2" fill="url(#linearGradient-2)" points="50 200 0 200 199 0.5 199 51"></polygon>
+        <polygon id="Path-2" fill="#1089F4" transform="translate(298.500000, 100.500000) scale(-1, 1) translate(-298.500000, -100.500000) " points="249 200.5 199 200.5 398 0.5 398 51.5"></polygon>
+        <polygon id="Path-2" fill="#0C69CE" transform="translate(298.500000, 299.750000) scale(-1, -1) translate(-298.500000, -299.750000) " points="249 399.5 199 399.5 398 200 398 250.5"></polygon>
+        <polygon id="Path-2" fill="#1089F4" transform="translate(99.500000, 299.750000) scale(1, -1) translate(-99.500000, -299.750000) " points="50 399.5 0 399.5 199 200 199 250.5"></polygon>
+    </g>
+</svg>

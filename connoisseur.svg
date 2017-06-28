@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="401px" height="381px" viewBox="0 0 401 381" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>connoisseur</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="27.6898662%" y1="18.9213048%" x2="81.3694114%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#DD7BF8" offset="0%"></stop>
+            <stop stop-color="#B845ED" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="24.9099643%" y1="0%" x2="63.5614367%" y2="66.0088051%" id="linearGradient-2">
+            <stop stop-color="#DD7BF8" offset="0%"></stop>
+            <stop stop-color="#B845ED" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Polygon" fill="url(#linearGradient-1)" points="200.5 56 350 164.478347 292.896081 340 108.103919 340 51 164.478347"></polygon>
+        <polygon id="Path-2" fill="url(#linearGradient-2)" points="1.5 146.5 200.5 2 200.5 56 51 164.5"></polygon>
+        <path d="M200.450988,146.5 L399.950988,2 L399.950988,56 L249.950988,164.5 L200.450988,146.5 Z" id="Path-2" fill="#931BA9" transform="translate(300.225494, 83.250000) scale(-1, 1) translate(-300.225494, -83.250000) "></path>
+        <polygon id="Path-2" fill="#931BA9" transform="translate(43.734295, 257.745408) scale(-1, 1) rotate(144.000000) translate(-43.734295, -257.745408) " points="-56.2428746 322.537614 142.757125 178.037614 143.711464 229.022778 -5.19590164 337.453201"></polygon>
+        <polygon id="Path-2" fill="#71149A" transform="translate(356.511349, 257.665997) rotate(144.000000) translate(-356.511349, -257.665997) " points="255.986557 322.03919 457.03614 178.870356 456.581715 227.982915 307.311434 336.461638"></polygon>
+        <polygon id="Path-2" fill="#71149A" transform="translate(203.885177, 374.085487) rotate(216.000000) translate(-203.885177, -374.085487) " points="104.98285 438.0564 302.787505 294.342905 301.833166 345.328069 152.333166 453.828069"></polygon>
+    </g>
+</svg>
